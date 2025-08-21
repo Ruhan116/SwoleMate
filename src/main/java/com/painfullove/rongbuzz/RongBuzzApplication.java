@@ -1,13 +1,13 @@
-package com.hardnerds.swolemate;
+package com.painfullove.rongbuzz;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SwolemateApplication {
+public class RongBuzzApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SwolemateApplication.class, args);
+		SpringApplication.run(RongBuzzApplication.class, args);
 	}
 
 }

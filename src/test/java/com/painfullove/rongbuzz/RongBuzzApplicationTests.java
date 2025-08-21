@@ -1,10 +1,10 @@
-package com.hardnerds.swolemate;
+package com.painfullove.rongbuzz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SwolemateApplicationTests {
+class RongBuzzApplicationTests {
 
 	@Test
 	void contextLoads() {

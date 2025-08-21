@@ -8,11 +8,11 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hardnerds</groupId>
-	<artifactId>swolemate</artifactId>
+	<groupId>com.painfullove</groupId>
+	<artifactId>rongbuzz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>swolemate</name>
-	<description>Demo project for Spring Boot</description>
+	<name>rongbuzz</name>
+	<description>RongBuzz - A Spring Boot Application</description>
 	<url/>
 	<licenses>
 		<license/>
